@@ -8,9 +8,10 @@ import autopy # version - 4.0.0
 
 ##########################
 wCam, hCam = 640, 480
-frameR = 100  # Frame Reduction
+frameR = 100  # Frame Reduction smooth
 smoothening = 7
 #########################
+
 
 pTime = 0
 plocX, plocY = 0, 0
